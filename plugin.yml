@@ -1,0 +1,7 @@
+name: Inauguracoes
+version: 1.0
+main: Main
+authors: [Martin]
+commands:
+  inaugurar:
+    aliases: [inagurar]
